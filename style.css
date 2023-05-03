@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fdmicons';
-  src:  url('fonts/fdmicons.eot?8hvubn');
-  src:  url('fonts/fdmicons.eot?8hvubn#iefix') format('embedded-opentype'),
-    url('fonts/fdmicons.ttf?8hvubn') format('truetype'),
-    url('fonts/fdmicons.woff?8hvubn') format('woff'),
-    url('fonts/fdmicons.svg?8hvubn#fdmicons') format('svg');
+  src:  url('fonts/fdmicons.eot?23kvum');
+  src:  url('fonts/fdmicons.eot?23kvum#iefix') format('embedded-opentype'),
+    url('fonts/fdmicons.ttf?23kvum') format('truetype'),
+    url('fonts/fdmicons.woff?23kvum') format('woff'),
+    url('fonts/fdmicons.svg?23kvum#fdmicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -31,7 +31,7 @@
 .fdmi_expand_less:before {
   content: "\e9ab";
 }
-.fdmi_icon-varnish:before {
+.fdmi_varnish:before {
   content: "\e9b2";
 }
 .fdmi_person_add:before {
